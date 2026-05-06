@@ -1,0 +1,82 @@
+[
+  {
+    "name": "github-pr-workflow",
+    "path": "sample_skills/github-pr-workflow",
+    "has_skill_md": true,
+    "has_examples": false,
+    "has_scripts": false,
+    "has_templates": false,
+    "has_resources": false,
+    "has_references": false,
+    "has_assets": false,
+    "title": "github-pr-workflow",
+    "summary": "GitHub PR, Actions, and Pages verification workflow for safe release checks.",
+    "phases": [
+      "release",
+      "review"
+    ],
+    "domains": [
+      "codex",
+      "git_github"
+    ],
+    "explicit_tags": [
+      "codex",
+      "git_github",
+      "release",
+      "review"
+    ],
+    "inferred_tags": [
+      "cautions",
+      "examples",
+      "inputs",
+      "outputs",
+      "steps",
+      "troubleshooting",
+      "when_to_use"
+    ],
+    "maturity": "stable",
+    "quality_score": 100,
+    "issues": [],
+    "recommendations": []
+  },
+  {
+    "name": "swiftui-coredata-review",
+    "path": "sample_skills/swiftui-coredata-review",
+    "has_skill_md": true,
+    "has_examples": false,
+    "has_scripts": false,
+    "has_templates": false,
+    "has_resources": false,
+    "has_references": false,
+    "has_assets": false,
+    "title": "swiftui-coredata-review",
+    "summary": "Review and test viewpoints for SwiftUI + CoreData app modifications.",
+    "phases": [
+      "review",
+      "testing"
+    ],
+    "domains": [
+      "codex",
+      "swift_ios"
+    ],
+    "explicit_tags": [
+      "codex",
+      "review",
+      "swift_ios",
+      "testing"
+    ],
+    "inferred_tags": [
+      "cautions",
+      "examples",
+      "inputs",
+      "outputs",
+      "steps",
+      "troubleshooting",
+      "when_to_use"
+    ],
+    "maturity": "stable",
+    "quality_score": 100,
+    "issues": [],
+    "recommendations": []
+  }
+]
